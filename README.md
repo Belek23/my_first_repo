@@ -8,4 +8,5 @@ Add text from local
 
 Add text in the newbranch
 
-Fix conflict
+Add local conflict
+
